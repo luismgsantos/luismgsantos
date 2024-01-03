@@ -1,8 +1,6 @@
 ## Hey hey, I’m @luismgsantos 👊
 
-I like adventure, so if you want my help in something, hit me up 🤙 
-
-Even if I never coded the language 😎
+I like adventure, so if you want my help with something, hit me up 🤙
 
 📫 You can [email](mailto:luismgspro@gmail.com) me, if you want to collaborate on something, give me feedback, or just have a quick chat 😉
 
