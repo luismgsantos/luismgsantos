@@ -1,8 +1,8 @@
-## Hey hey, I’m @luismgsantos 👊
+## Hey hey, I’m Luís 👊
 
-I like adventure, so if you want my help with something, hit me up 🤙
-
-📫 You can [email](mailto:luismgspro@gmail.com) me, if you want to collaborate on something, give me feedback, or just have a quick chat 😉
+🤙 I like adventure, so if you want my help with something, hit me up\
+🤝 Taking my first steps in contributing to open-source projects\
+📫 You can [email](mailto:luismgspro@gmail.com), if you want to collaborate on something, give me feedback, or just have a quick chat.
 
 ---
 
