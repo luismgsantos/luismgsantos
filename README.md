@@ -2,7 +2,7 @@
 
 🤝 Taking my first steps in contributing to open-source projects\
 🤙 I like helping, so if you want my help with something, hit me up\
-📫 You can [get in touch](https://luismgsantos.github.io/#contact-me), if you want to collaborate on something, give me feedback, or just have a chat.
+📫 If you want to collaborate, give me feedback, or have a chat, you can [email](mailto:luismgspro@gmail.com?subject=Hey%20Luis%2C%20let%27s%20chat%21) me.
 
 ---
 
