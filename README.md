@@ -1,8 +1,8 @@
 ## Hey hey, I’m Luís 👊
 
-🤝 Taking my first steps in contributing to open-source projects\
-🤙 I like helping, so if you want my help with something, hit me up\
-📫 If you want to collaborate, give me feedback, or chat, you can [email](mailto:luismgspro@gmail.com?subject=Hey%20Luis%2C%20let%27s%20chat%21) me.
+🤝 I contribute to open-source projects, I code Laravel, Vue & Python \
+🤙 Hit me up if you want to colab on what you're working on \
+📫 If you want to give me feedback or chat, you can [email](mailto:luismgspro@gmail.com?subject=Hey%20Luis%2C%20let%27s%20chat%21) me.
 
 ---
 
